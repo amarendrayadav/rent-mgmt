@@ -1,0 +1,77 @@
+db.getCollections('landlords').insert([{
+    "phoneNumber" : "80958263678",
+    "emailId" : "arindam.ch@gmail.com",
+    "panNumber" : "AXLKO3400D",
+    "name" : "Arindam Chaudhary",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254510",
+    "emailId" : "kutch.aston@gmail.com",
+    "panNumber" : "AXLK23400D",
+    "name" : "Aston Kutcher",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254511",
+    "emailId" : "singh.pinky@gmail.com",
+    "panNumber" : "AXLKO8900D",
+    "name" : "Pinky Singh",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451224510",
+    "emailId" : "oindrila.en@gmail.com",
+    "panNumber" : "AXLKO5600D",
+    "name" : "Oindrila Sen",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98452254510",
+    "emailId" : "shetty.a@gmail.com",
+    "panNumber" : "AX34O3400D",
+    "name" : "A. Shetty",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254513",
+    "emailId" : "ch.akhilesh@gmail.com",
+    "panNumber" : "AXLKO3400D",
+    "name" : "Akhilesh Chaudhary",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254515",
+    "emailId" : "kumar.p@gmail.com",
+    "panNumber" : "AXLPO3400D",
+    "name" : "P. Kumar",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254512",
+    "emailId" : "mo.amir.khan@gmail.com",
+    "panNumber" : "AXLLO3400D",
+    "name" : "Amir Khan",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254519",
+    "emailId" : "sonali.bendre@gmail.com",
+    "panNumber" : "APLOO3400D",
+    "name" : "Sonali Bendre",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254555",
+    "emailId" : "abhishek.saxena@gmail.com",
+    "panNumber" : "AXLKO3522A",
+    "name" : "Abhishek Saxena",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+},
+{
+    "phoneNumber" : "98451254345",
+    "emailId" : "priya.prakash@gmail.com",
+    "panNumber" : "AXLKO3401D",
+    "name" : "Priya Prakash",
+    "_class" : "com.amarendra.project.rentmanagement.dataaccess.entities.Landlord"
+}]);
